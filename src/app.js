@@ -21,6 +21,7 @@ export default class App extends React.Component{
     render(){
         return(
             <div>
+                <h1>Simple React-Router example</h1>
                 <Menu/>
                 <Main/>
             </div>
