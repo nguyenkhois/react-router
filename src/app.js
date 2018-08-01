@@ -12,7 +12,7 @@ const App = () => (
 );
 
 export default App;
-*/
+------------------------------------*/
 
 export default class App extends React.Component{
     //Do stuff
