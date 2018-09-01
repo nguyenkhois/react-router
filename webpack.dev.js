@@ -11,6 +11,7 @@ module.exports = merge(common, {
         port: 9000, // it'll now be at http://localhost:9000
         watchOptions: {
             ignored: /node_modules/
-        }
+        },
+        historyApiFallback: true
     }
 });
